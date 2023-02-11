@@ -2,7 +2,7 @@
 Criação da Classe Banco (Atividade curso Java - Módulo 01 (Parte 02) 
 
 ## Progresso
-O projeto continua incompleto, porém com bastante progresso. Foi implementada a `Classe Conta` com os Métodos Personalizados(`toString`, `depositar`, `sacar` e `transferir`) e com seus respectivos Métodos Especiais (`Constructor`, `Getters` e `Setters`). A `Classe Main AgenciaBancaria` foi criada com o intuito de servir como interface para acessar os atributos da `Classe Conta`. Além disso foi criada a `Classe Utils` com a funcionalidade de tratar os valores `Double` e transformá-los em string seguindo o padrão `R$ #,##0.00`. O conceito de listas de Array foi usado, o que tornou possível o cadastro e armazenamento de outras contas. Para quem ficar curioso, [link](https://www.delftstack.com/pt/howto/java/random-alphanumeric-string-in-java/#:~:text=Gere%20string%20alfanum%C3%A9rica%20aleat%C3%B3ria%20em%20Java%20usando%20o,caracteres%20e%20d%C3%ADgitos%20da%20string%20que%20criamos%20anteriormente.) da `Classe GeradorSenha`.
+O projeto continua incompleto, porém com bastante progresso. Foi implementada a `Classe Conta` com os Métodos Personalizados(`toString`, `depositar`, `sacar` e `transferir`) e com seus respectivos Métodos Especiais (`Constructor`, `Getters` e `Setters`). A `Classe Main AgenciaBancaria` foi criada com o intuito de servir como interface para acessar os atributos da `Classe Conta`. Além disso foi criada a `Classe Utils` com a funcionalidade de tratar os valores `Double` e transformá-los em string seguindo o padrão `R$ #,##0.00`. O conceito de listas de Array foi usado, o que tornou possível o cadastro e armazenamento de outras contas. 
 
 ## Pendências
 
@@ -19,13 +19,10 @@ depositar ou sacar dinheiro da ContaPoupança será utilizado os métodos
 
 ## Projeto Atual
 
-* [Classe Contas](https://github.com/Edivaldo16/Banco/blob/main/Contas.java)
-* [Classe ContaPoupanca](https://github.com/Edivaldo16/Banco/blob/main/ContaPoupanca.java)
-* [Classe ContaCorrente](https://github.com/Edivaldo16/Banco/blob/main/ContaCorrente.java)
-* [Classe Cliente](https://github.com/Edivaldo16/Banco/blob/main/Cliente.java)
-* [Classe GeradorSenha](https://github.com/Edivaldo16/Banco/blob/main/GeradorSenha.java)
-* [Interface CaixaEletronico](https://github.com/Edivaldo16/Banco/blob/main/CaixaEletronico.java)
-* [Classe Main Banco](https://github.com/Edivaldo16/Banco/blob/main/Teste.java)
+* [Classe Conta](https://github.com/Edivaldo16/Banco/blob/main/Contas.java)
+* [Classe Pessoa](https://github.com/Edivaldo16/Banco/blob/main/ContaPoupanca.java)
+* [Classe Utils](https://github.com/Edivaldo16/Banco/blob/main/ContaCorrente.java)
+* [Classe Main AgenciaBancaria](https://github.com/Edivaldo16/Banco/blob/main/Teste.java)
 
 ## Agradecimentos
 
