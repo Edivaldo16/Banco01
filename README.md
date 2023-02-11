@@ -19,10 +19,10 @@ depositar ou sacar dinheiro da ContaPoupança será utilizado os métodos
 
 ## Projeto Atual
 
-* [Classe Conta](https://github.com/Edivaldo16/Banco/blob/main/Contas.java)
-* [Classe Pessoa](https://github.com/Edivaldo16/Banco/blob/main/ContaPoupanca.java)
-* [Classe Utils](https://github.com/Edivaldo16/Banco/blob/main/ContaCorrente.java)
-* [Classe Main AgenciaBancaria](https://github.com/Edivaldo16/Banco/blob/main/Teste.java)
+* [Classe Conta](https://github.com/Edivaldo16/Banco01/blob/main/AgenciaBanco/Conta.java)
+* [Classe Pessoa](https://github.com/Edivaldo16/Banco01/blob/main/AgenciaBanco/Pessoa.java)
+* [Classe Utils](https://github.com/Edivaldo16/Banco01/blob/main/AgenciaBanco/Utils.java)
+* [Classe Main AgenciaBancaria](https://github.com/Edivaldo16/Banco01/blob/main/AgenciaBanco/AgenciaBancaria.java)
 
 ## Agradecimentos
 
