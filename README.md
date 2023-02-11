@@ -2,7 +2,7 @@
 Criação da Classe Banco (Atividade curso Java - Módulo 01 (Parte 02) 
 
 ## Progresso
-O projeto continua incompleto, porém com bastante progresso. Foi implementada a `Classe Conta` com os Métodos Personalizados(`toString`, `depositar`, `sacar` e `transferir`) e com seus respectivos Métodos Especiais (`Constructor`, `Getters` e `Setters`). A `Classe Main AgenciaBancaria` foi criada com o intuito de servir como interface para acessar os atributos da `Classe Conta`. Além disso foi criada a `Classe Utils` com a funcionalidade de tratar os valores `Double` e transformá-los em string seguindo o padrão `R$ #,##0.00`. O conceito de listas de Array foi usado, o que tornou possível o cadastro e armazenamento de outras contas. 
+O projeto continua incompleto, porém com bastante progresso. Foi implementada a `Classe Conta` com os Métodos Personalizados(`toString`, `depositar`, `sacar` e `transferir`) e com seus respectivos Métodos Especiais (`Constructor`, `Getters` e `Setters`). A `Classe Main AgenciaBancaria` foi criada com o intuito de servir como interface para acessar os atributos da `Classe Conta`. Além disso foi criada a `Classe Utils` com a funcionalidade de tratar os valores `Double` e transformá-los em `String` seguindo o padrão `R$ #,##0.00`. O conceito de `ArrayList` foi usado, o que tornou possível o cadastro e armazenamento de outras contas. 
 
 ## Pendências
 
