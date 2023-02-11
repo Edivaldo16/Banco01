@@ -6,12 +6,12 @@ O projeto continua incompleto, porém com bastante progresso. Foi implementada a
 
 ## Pendências
 
-* Conta Poupança além dos métodos herdados terá o método resgatar
+* Conta Poupança além dos métodos herdados terá o método `resgatar`
 que transfere valores da Poupança para ContaCorrente;
 
 * A Poupança não aceitará saques e depósitos diretamente, para
 depositar ou sacar dinheiro da ContaPoupança será utilizado os métodos
-aplicar() e resgatar() respectivamente.
+`aplicar` e `resgatar` respectivamente.
 
 ## Implementações Futuras
 
